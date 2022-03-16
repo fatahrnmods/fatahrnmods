@@ -29,14 +29,27 @@
 </p>
 
 ------
+ <a href="https://github.com/fatahrnmods"><img src="https://cardivo.vercel.app/api?name=M.A.Fatah&description=Hi,%20i%27m%20Muhamad Abul Fatah%20?%20and%20i%27m%20just%20a%20newbie%20programmer%20Nice%20to%20meet%20you%20👋&image=https://github.com/fatahrnmods.png?=%23eaeaea" /><a>
+</p>
+
 ### Language and tools
+<p align="center">
 <a href="https://github.com/mrfzvx12"><img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"></a>
 <a href="https://github.com/mrfzvx12"><img
 src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white"></a>
 <a href="https://github.com/mrfzvx12"><img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF"></a>
 <a href="https://github.com/mrfzvx12"><img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"></a>
 <a href="https://github.com/mrfzvx12"><img src="http://img.shields.io/badge/-Ffmpeg-000000?style=flat&logo=ffmpeg&logoColor=FFFFFF"></a>
-<p align="center">
+<a href="https://github.com/mrfzvx12"><img src="https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=FFFFFF" />
+<a href="https://github.com/mrfzvx12"><img src="https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=FFFFFF" />
+<a href="https://github.com/mrfzvx12"><img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=python" />
+<a href="https://github.com/mrfzvx12"><img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react" />
+<a href="https://github.com/mrfzvx12"><img src="https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux" />
+<a href="https://github.com/mrfzvx12"><img src="https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows" />
+<a href="https://github.com/mrfzvx12"><img src="https://img.shields.io/badge/-VS_Code-000000?style=flat&logo=visual-studio-code" />
+<a href="https://github.com/mrfzvx12"><img src="https://img.shields.io/badge/-SQLite3-000000?style=flat&logo=sqlite" />
+<p>
+
 
 ## Profile
 Property                 | Data  
