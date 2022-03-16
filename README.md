@@ -32,7 +32,7 @@
  <a href="https://github.com/fatahrnmods"><img src="https://cardivo.vercel.app/api?name=M.A.Fatah&description=Hi,%20i%27m%20Muhamad Abul Fatah%20?%20and%20i%27m%20just%20a%20newbie%20programmer%20Nice%20to%20meet%20you%20👋&image=https://github.com/fatahrnmods.png?=%23eaeaea" /><a>
 </p>
 
-### Language and tools
+## Language and tools
 <p align="center">
 <a href="https://github.com/mrfzvx12"><img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"></a>
 <a href="https://github.com/mrfzvx12"><img
@@ -40,18 +40,17 @@ src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoCo
 <a href="https://github.com/mrfzvx12"><img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF"></a>
 <a href="https://github.com/mrfzvx12"><img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"></a>
 <a href="https://github.com/mrfzvx12"><img src="http://img.shields.io/badge/-Ffmpeg-000000?style=flat&logo=ffmpeg&logoColor=FFFFFF"></a>
-<a href="https://github.com/mrfzvx12"><img src="https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=FFFFFF" />
-<a href="https://github.com/mrfzvx12"><img src="https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=FFFFFF" />
-<a href="https://github.com/mrfzvx12"><img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=python" />
-<a href="https://github.com/mrfzvx12"><img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react" />
-<a href="https://github.com/mrfzvx12"><img src="https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux" />
-<a href="https://github.com/mrfzvx12"><img src="https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows" />
-<a href="https://github.com/mrfzvx12"><img src="https://img.shields.io/badge/-VS_Code-000000?style=flat&logo=visual-studio-code" />
-<a href="https://github.com/mrfzvx12"><img src="https://img.shields.io/badge/-SQLite3-000000?style=flat&logo=sqlite" />
+<a href="https://github.com/mrfzvx12"><img src="https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=FFFFFF" /><a>
+<a href="https://github.com/mrfzvx12"><img src="https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=FFFFFF" /><a>
+<a href="https://github.com/mrfzvx12"><img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=python" /><a>
+<a href="https://github.com/mrfzvx12"><img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react" /><a>
+<a href="https://github.com/mrfzvx12"><img src="https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux" /><a>
+<a href="https://github.com/mrfzvx12"><img src="https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows" /><a>
+<a href="https://github.com/mrfzvx12"><img src="https://img.shields.io/badge/-VS_Code-000000?style=flat&logo=visual-studio-code" /><a>
+<a href="https://github.com/mrfzvx12"><img src="https://img.shields.io/badge/-SQLite3-000000?style=flat&logo=sqlite" /><a>
 <p>
 
-
-## Profile
+### Profile
 Property                 | Data  
 -------------------------|------
 Language / IDE           | [![C# Badge](https://img.shields.io/badge/-Visual%20Studio-239120?style=flat&logo=C-Sharp&logoColor=white)](https://github.com/search?l=C%23&q=user%3Azmcx16&type=Repositories) [![Python Badge](https://img.shields.io/badge/-PyCharm-3776AB?style=flat&logo=Python&logoColor=white)](https://github.com/search?l=Python&q=user%3Azmcx16&type=Repositories) [![Html+CSS+Javascript Badge](https://img.shields.io/badge/-Visual%20Studio%20Code-F7DF1E?style=flat&logo=Javascript&logoColor=white)](https://github.com/search?l=JavaScript&q=user%3Azmcx16&type=Repositories) [![C++ Badge](https://img.shields.io/badge/-Visual%20Studio-00599C?style=flat&logo=C%2B%2B&logoColor=white)](https://github.com/search?q=user%3Azmcx16&type=Repositories) [![C Badge](https://img.shields.io/badge/-Visual%20Studio-A8B9CC?style=flat&logo=C&logoColor=white)](https://github.com/search?q=user%3Azmcx16&type=Repositories) [![JAVA Badge](https://img.shields.io/badge/-Eclipse-007396?style=flat&logo=JAVA&logoColor=white)](https://github.com/search?q=user%3Azmcx16&type=Repositories)
@@ -61,6 +60,7 @@ CI / CD                  | [![Azure Pipelines Badge](https://img.shields.io/badg
 Side Projects - App <img width=200/> | [![MahoMangaDownloader Badge](https://img.shields.io/badge/-MahoMangaDownloader-lightskyblue?style=flat&logoColor=white)](https://project.zmcx16.moe/?page=mahomangadownloader) [![AxisTradeCult Badge](https://img.shields.io/badge/-AxisTradeCult-darkorange?style=flat&logoColor=white)](https://github.com/zmcx16/AxisTradeCult) [![ChaldeaStockObservatory Badge](https://img.shields.io/badge/-ChaldeaStockObservatory-lightsteelblue?style=flat&logoColor=white)](https://github.com/zmcx16/ChaldeaStockObservatory) [![MangaPrettier Badge](https://img.shields.io/badge/-MangaPrettier-orange?style=flat&logoColor=white)](https://github.com/zmcx16/MangaPrettier) [![PhotoMosaic-Artifact Badge](https://img.shields.io/badge/-PhotoMosaic%20Artifact-deepskyblue?style=flat&logoColor=white)](https://github.com/zmcx16/PhotoMosaic-Artifact) [![OpenAI-Gym-Hearts Badge](https://img.shields.io/badge/-OpenAI%20Gym%20Hearts-darkslateblue?style=flat&logoColor=white)](https://github.com/zmcx16/OpenAI-Gym-Hearts) [![find-house-assistant-chrome-extension Badge](https://img.shields.io/badge/-find%20house%20assistant%20chrome%20extension-yellowgreen?style=flat&logoColor=white)](https://github.com/zmcx16/find-house-assistant-chrome-extension) [![MemoOffVocabulary Badge](https://img.shields.io/badge/-MemoOffVocabulary-magenta?style=flat&logoColor=white)](https://github.com/zmcx16/MemoOffVocabulary)   
 Side Projects - Web      | [![Side Project Badge](https://img.shields.io/badge/-project.zmcx16.moe-00fa9a?style=flat&logoColor=white)](https://project.zmcx16.moe/) [![Axis Cult Badge](https://img.shields.io/badge/-Axis%20Cult-00eeff?style=flat&logoColor=white)](https://axiscult.zmcx16.moe/) [![Norn Minehunter Badge](https://img.shields.io/badge/-Norn%20Minehunter-gold?style=flat&logoColor=white)](https://norn-minehunter.zmcx16.moe/) [![TW Stock Lottery Secretary Badge](https://img.shields.io/badge/-TW%20Stock%20Lottery%20Secretary-3b5998?style=flat&logoColor=white)](https://www.facebook.com/%E8%82%A1%E7%A5%A8%E6%8A%BD%E7%B1%A4%E5%B0%8F%E7%A7%98%E6%9B%B8-115560563215006/) [![Protobuf Deserializer Badge](https://img.shields.io/badge/-Protobuf%20Deserializer-red?style=flat&logoColor=white)](https://protobuf-deserializer.zmcx16.moe/)
 Reach Me                 | [![Gmail Badge](https://img.shields.io/badge/-Gmail-e54448?style=flat&logo=Gmail&logoColor=white)](mailto:radhinallhaady@gmail.com) [![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/true.min.180)[![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/6282373158947?text=Asalamualaikum+bang)
+<p>
 
 ### Github stats
 <!-- blog start -->
